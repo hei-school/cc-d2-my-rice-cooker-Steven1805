@@ -11,6 +11,13 @@ Simulate a rice cooker with a command-line interface using C#.
 - Warm state after cooking.
 - Options to continue, add more rice, remove rice, or turn off the rice cooker.
 
+### IN PROGRESS
+-The displaying menu after some actions 
+-The adding and removing rice quantity may still contains some bugs 
+
+**   Conding convention : https://learn.microsoft.com/fr-fr/dotnet/csharp/fundamentals/coding-style/coding-conventions   **
+
+
 ## Installation
 
 - You need .NET Core SDK installed ([Download .NET Core](https://dotnet.microsoft.com/download))
